@@ -1,0 +1,2 @@
+﻿1、解压当前目录下的VMware16.zip,安装目录下的VMware-workstation-full-16.0.0-16894299.exe，一路下一步即可
+2、安装完毕后会提示输入密钥，打开VMware16Key.txt，复制密钥粘贴到Vmware软件里面即可
